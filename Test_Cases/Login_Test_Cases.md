@@ -12,4 +12,5 @@ Total Test Cases: 10
 
 # Login Test Cases
 
-![Login Test Cases](../Screenshots/Login_Test_Case_1.png)(../Screenshots/Login_Test_Case_2.png)
+![Login Test Cases](../Screenshots/Login_Test_Case_1.png)
+![Login Test Cases](../Screenshots/Login_Test_Case_2.png)
