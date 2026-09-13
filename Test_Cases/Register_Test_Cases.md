@@ -15,6 +15,6 @@ Total Test Cases: 20
 
 # Registration Test Cases
 
-![Registration Test Cases](../Screenshots/Registration_Test_Case_1.png)
+![Registration Test Cases](../Screenshots/Register_Test_Case_1.png)
 
-![Registration Test Cases](../Screenshots/Registration_Test_Case_2.png)
+![Registration Test Cases](../Screenshots/Register_Test_Case_2.png)
